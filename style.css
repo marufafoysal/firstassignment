@@ -1,0 +1,115 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.first-section{
+    width: 50%;
+    padding: 100px 150px 50px 200px;
+}
+
+.main-class{
+   
+background-color: #E554731A;
+    display: flex;
+}
+
+.picture1{
+  width: 635px;
+  height:400px;
+  padding-top: 50px;
+  padding-right: 100px;
+}
+.first-heading{
+    color: #272727;
+text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.first-p{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.button1{
+
+    background: #E55473;
+    margin: 0 px;
+    padding: 20px 43px;
+    color: white;
+}
+.span1{
+    color: #E55473;
+}
+.main2{
+    margin-top: 100px;
+}
+.pic{
+    width: 300px;
+    height: 400px;
+    padding-right: 250px;
+}
+
+.instadiv{
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.instahead{
+   color:#272727 ; 
+}
+
+.instap{
+   color: rgba(39, 39, 39, 0.60);
+}
+.img2{
+    display: flex;
+    padding: 50px;
+    gap: 10px;
+}
+
+.footer1{
+    background-color: #111010;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.fooc{
+    color: #E55473;
+}
+.copyright{
+    color: #FFFFFF66;
+}
+.footer1{
+    padding-left: 450px;
+    padding-right: 450px;
+    background-repeat: no-repeat;
+}
+
+.deals{
+    
+    margin: 60px 100px;
+    text-align: center;
+    padding: 150px 0px;
+    background-repeat: no-repeat;
+    background-image:url("Rectangle\ 9.png")
+    
+   
+}
+.btn1{
+    padding: 11px 29px;
+    background-color: #E55473;
+    color: white;
+    border-radius: 5px;
+}
+.ttt{
+    width: 50%;
+}
+
